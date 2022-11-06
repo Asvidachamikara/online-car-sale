@@ -1,0 +1,14 @@
+#form{
+	background-image :url(Home.jpg);
+	height:100%;
+	background-size : cover;
+	background-position : center;
+	padding:100px 600px;
+}
+
+.text{
+	border-radius:15px;
+	text-align:center;
+	background-color:black;
+	color:white;
+}
